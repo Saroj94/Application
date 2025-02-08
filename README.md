@@ -1,2 +1,2 @@
 # Application
-### New updates has been done by Developer A
+### New story is updated in application by Developer b
